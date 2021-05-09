@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112580319858",
+    "project_id": "jammy-a3595",
+    "storage_bucket": "jammy-a3595.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112580319858:android:1ab941b7a279bc95fa40eb",
+        "android_client_info": {
+          "package_name": "com.tiffin8519.loging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112580319858-73secj09fst1ldj0u8uhuhdailgq39g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFo1UQxjDnxJxXkQKVdRN-uP9oCfW5D6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112580319858-73secj09fst1ldj0u8uhuhdailgq39g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
